@@ -1,0 +1,5 @@
+{
+    "description": "The forgotten records",
+    "plugins": ["full-text-search", "google-analytics", "emoji"],
+    "gaCode": "G-86BPX4024L"
+}
