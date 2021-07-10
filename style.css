@@ -1,0 +1,16 @@
+#help {
+  width: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  color: brown;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  background-color: rgba(111, 111, 111, 10%);
+  padding: 0.5rem;
+}
+#help:hover {
+    background-color: rgb(88,88,88, 50%);
+    color: beige;
+    cursor: pointer;
+}
